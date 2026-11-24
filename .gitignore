@@ -1,0 +1,24 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.DS_Store
+Thumbs.db
+# Fetched handbook and generated model/index artifacts
+data/raw/gitlab-handbook/
+data/raw/handbook_subset/
+data/processed/*.jsonl
+data/processed/*.joblib
+# Local indexes and caches
+data/index/
+data/cache/
+models/
+*.faiss
+*.npy
+*.npz
+
+# Local environment
+.env.*
+!.env.example

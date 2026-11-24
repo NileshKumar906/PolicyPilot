@@ -1,0 +1,14 @@
+{
+  "threshold": 0.03278688524590164,
+  "dev_accuracy": 0.5333333333333333,
+  "dev_balanced_accuracy": 0.7083333333333334,
+  "dev_true_refusals": 5,
+  "dev_false_refusals": 7,
+  "dev_missed_out_of_scope": 0,
+  "test_n": 15,
+  "test_true_refusals": 5,
+  "test_false_refusals": 7,
+  "test_missed_out_of_scope": 0,
+  "test_balanced_accuracy": 0.7083333333333334,
+  "warning": "Threshold chosen on dev; test metrics are held out. Starter demo corpus and hand-written questions only."
+}

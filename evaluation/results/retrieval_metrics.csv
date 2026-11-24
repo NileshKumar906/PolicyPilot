@@ -1,0 +1,7 @@
+strategy,split,n,recall@1,recall@3,recall@5,mrr
+bm25,dev,10,0.7,0.7,0.7,0.7
+bm25,test,10,0.7,0.7,0.8,0.725
+embedding,dev,10,0.3,0.6,0.7,0.4533333333333333
+embedding,test,10,0.6,0.8,0.8,0.6833333333333333
+hybrid,dev,10,0.7,0.7,0.7,0.7
+hybrid,test,10,0.7,0.8,0.8,0.7333333333333333
